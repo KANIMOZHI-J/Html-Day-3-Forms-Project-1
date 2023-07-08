@@ -1,0 +1,27 @@
+body{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+
+}
+.bd{
+    background-color:lightgoldenrodyellow;
+    padding-left:20px;
+    border: 1px solid black;
+    align-items:center;
+    transition : transform 0.4s ease;
+}
+.bd:hover{
+    transform : scale(1.5)
+}
+.BT{
+    text-align: center;
+    padding-bottom:20px;
+}
+.pd{
+    padding:10px;
+}
+.outer{
+    border:1cm solid rebeccapurple;
+
+}
